@@ -1,0 +1,87 @@
+.image-container {
+    width: 100%;
+    height: 600px; /* Or whatever height you want the cover image to have */
+    overflow: hidden;
+  }
+  
+  .cover-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .activity-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  h1, h2 {
+    color: #647bb1;
+    font-family: 'Arial', sans-serif;
+    text-align: left;
+  }
+  
+  h1 {
+    font-size: 48px;
+    letter-spacing: 2px;
+    margin-bottom: 20px;
+  }
+  
+  h2 {
+    font-size: 36px;
+    letter-spacing: 1px;
+    margin-bottom: 15px;
+  }
+
+  /* CSS样式 */
+  .floating-chat-button {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #1DA1F2;
+    border-radius: 50%;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* 添加阴影效果 */
+    transition: transform 0.3s, box-shadow 0.3s; /* 添加过渡效果 */
+  }
+  
+  .floating-chat-button:hover {
+    transform: scale(1.4); /* 鼠标悬停时稍微放大 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* 鼠标悬停时添加更明显的阴影效果 */
+  }
+
+.chat-icon {
+  width: 50px; /* Adjust based on your needs */
+  height: 50px; /* Adjust based on your needs */
+  border-radius: 50%; /* Make the button circular */
+  background: url('../images/chat.png') no-repeat center center; /* Replace with the path to your image */
+  background-size: cover; /* Make sure the image covers the whole area */
+}
+
+/* Custom CSS for the card layout */
+.card-minimized {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+.card-img-container {
+  flex: 0 0 auto;
+  width: 80px; /* Adjust the width as needed */
+  margin-right: 10px; /* Adjust the margin as needed */
+}
+
+.card-img-container img {
+  width: 100%;
+  height: auto;
+}
+.card-title {
+  font-size: 14px; /* Adjust the font size as needed */
+  font-weight: bold; /* Optionally adjust the font-weight */
+}
+
+
+  
+  
