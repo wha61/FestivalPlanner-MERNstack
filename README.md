@@ -49,3 +49,65 @@ Handles advanced user profile management functionalities:
 - **APIs**: For updating and retrieving detailed profiles.
 
 ---
+
+Main Features (Color code: Epic, Task, Sub-task, Description)
+❖ Discover and Search Festivals
+Users can browse and search for a variety of festival events in our application.
+➢ Landing Page
+A page for people to browse and search event
+■ Search Functions
+■ Navigation Bar
+■ Routing for all pages
+➢ Event Details Page
+A place where people can find all the relevant details of an event
+■ Activities list (CRUD actions)
+■ Event’s Spotify Playlist and utilized Spotify API to implement a
+search engine for Top 10 songs by any artists
+■ Google Map location
+■ Fetching Event details (CRUD actions)
+❖ Personalized Schedule Planning
+Users can create their own schedule for each festival event and modify it at any
+time.
+➢ Personal Planner
+A page for people to view currently available activities and add to their
+event
+■ Available activities list
+■ Personalized list for each event
+➢ Saved Events
+This is where people can see the events they saved
+■ Sorting function
+■ Save function
+➢ My Events
+Where event organizer can see events they created, only creators can
+modify their own event
+■ Making calls to DB through the backend
+■ Change input data into parseable JSON objects
+■ Image upload feature
+■ Google Maps pinpoint feature
+❖ Profile Management
+State-of-the-art profile management service, using redux, react, JSX to ensure
+users have the correct access to functionalities relevant to them
+➢ User creation
+Adding a user with a specific type
+■ MongoDB calls with appropriate backend
+■ Login page
+■ User Signup page
+➢ User management
+Authenticate users and API for the rest of the app to check user states
+■ Setting up redux and store
+■ Authentication backend services
+■ Set an HTTP-only cookie containing the JWT token
+➢ Profile services
+Populate User info and displaying
+■ Displaying user info:
+● Username, First and Last Name, Email Address, Pending
+Events, Selected Social Media link
+➢ Profile update and linking
+Links to social media about this user and update profile features
+■ Links to social media
+■ Update profile
+■ Update name, username, password
+❖ Chat Room
+A chat room where users can find friends and discuss with other users.
+■ Talk with others that interested in the same events
+■ Check current online users
