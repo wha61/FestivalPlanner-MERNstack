@@ -3,6 +3,9 @@
 **Festival Planner** is a cutting-edge web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
 <img src="/image.png" alt="ttd">
+<img src="/image1.png" alt="ttd">
+<img src="/image2.png" alt="ttd">
+<img src="/image3.png" alt="ttd">
 
 ## Overview
 image
