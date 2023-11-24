@@ -2,8 +2,10 @@
 
 **Festival Planner** is a cutting-edge web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
-## Overview
+<img src="/image.png" alt="ttd">
 
+## Overview
+image
 For event organizers, Festival Planner provides the ability to post activities, manage event details, and even integrate ticketing solutions. Event attendees can explore and save events, create personalized schedules from the available line-up, and share them via social media platforms like Facebook and Instagram.
 
 The application goes beyond basic scheduling, linking to external services such as Google Maps, Spotify, weather forecasts, all designed to augment the user's event experience. Whether it's finding the event location, exploring artist tracks, checking the weather, or reading food vendor reviews, Festival Planner centralizes these features in one seamless experience.
