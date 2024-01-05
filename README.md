@@ -16,7 +16,8 @@ The application goes beyond basic scheduling, linking to external services such 
 
 Implemented using technologies such as **MongoDB Atlas**, **Google Cloud**, **React**, **Node.js**, and **Express.js**, this project reflects a concerted effort to bridge the gap between digital convenience and real-world festivities. Its architecture is robust, scalable, and tailored to meet the diverse needs of users, making it an indispensable tool for enjoying large-scale gatherings. Crafted by a skilled team of developers, Festival Planner stands as a testament to innovative thinking and the potential of modern web development.
 
-<img src="/diagram.png" alt="ttd">
+<img src="/diagram.png" alt="ttd" style="width: 100%;">
+
 <img src="/structure.png" alt="ttd">
 
 ## Setup (to test on local)
