@@ -24,15 +24,15 @@ Implemented using technologies such as **MongoDB Atlas**, **Google Cloud**, **Re
 
 Navigate to the server directory:
 
-cd ./server
-node server.js
+    cd ./server
+    node server.js
 
 
 ### Start the App
 
 At the root folder (same as this README file):
 
-npm start
+    npm start
 
 
 ## Roles and Responsibilities
