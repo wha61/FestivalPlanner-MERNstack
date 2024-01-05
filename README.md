@@ -18,7 +18,7 @@ Implemented using technologies such as **MongoDB Atlas**, **Google Cloud**, **Re
 <img src="/diagram.png" alt="ttd">
 <img src="/structure.png" alt="ttd">
 
-## Setup
+## Setup (to test on local)
 
 ### Start the Server
 
