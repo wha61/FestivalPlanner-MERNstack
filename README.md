@@ -18,7 +18,7 @@ Implemented using technologies such as **MongoDB Atlas**, **Google Cloud**, **Re
 
 <img src="/diagram.png" alt="ttd" style="width: 100%;">
 
-<img src="/structure.png" alt="ttd">
+<img src="/structure.png" alt="ttd" style="width: 100%;">
 
 ## Setup (to test on local)
 
