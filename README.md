@@ -2,12 +2,6 @@
 
 **Festival Planner** is a cutting-edge web application designed to enhance the festival-going experience for both organizers and attendees. Acting as a comprehensive hub, it offers real-time updates and personalized planning tools tailored to various large-scale events, including music festivals, conventions, and carnivals.
 
-<img src="/image.png" alt="ttd">
-<img src="/image1.png" alt="ttd">
-<img src="/image2.png" alt="ttd">
-<img src="/image3..png" alt="ttd">
-<img src="/chatroom.jpg" alt="ttd">
-
 ## Overview
 For event organizers, Festival Planner provides the ability to post activities, manage event details, and even integrate ticketing solutions. Event attendees can explore and save events, create personalized schedules from the available line-up, and share them via social media platforms like Facebook and Instagram.
 
@@ -44,6 +38,8 @@ Responsible for user-related functionalities, including:
 - User Registration: Authenticating and managing basic profile.
 - Authentication Tokens: Handling user login and generating tokens.
 
+<img src="/image.png" alt="ttd">
+
 ### Saved Event Service
 
 Manages the functionality of saving and retrieving saved festivals for each user, including:
@@ -75,11 +71,17 @@ Users can browse and search for a variety of festival events in our application.
   - Search Functions
   - Navigation Bar
   - Routing for all pages
+ 
+<img src="/image1.png" alt="ttd">
+
 - **Event Details Page**: A place where people can find all the relevant details of an event
   - Activities list (CRUD actions)
   - Event’s Spotify Playlist and utilized Spotify API to implement a search engine for Top 10 songs by any artists
   - Google Map location
   - Fetching Event details (CRUD actions)
+ 
+<img src="/image2.png" alt="ttd">
+<img src="/image3..png" alt="ttd">
 
 ### Personalized Schedule Planning
 
@@ -120,6 +122,8 @@ State-of-the-art profile management service, using redux, react, JSX to ensure u
 ### Chat Room
 
 A chat room where users can find friends and discuss with other users.
+
+<img src="/chatroom.jpg" alt="ttd">
 
 - Talk with others that interested in the same events
 - Check current online users
