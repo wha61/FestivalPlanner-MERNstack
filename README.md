@@ -36,14 +36,7 @@ At the root folder (same as this README file):
     npm start
 
 
-## Roles and Responsibilities
-
-### Milestone 1
-
-- **User Service**: Vivian
-- **Saved Event Service**: Andy
-- **Organizer Service**: Bruce
-- **Profile Services**: John
+## Services
 
 ### User Service
 
